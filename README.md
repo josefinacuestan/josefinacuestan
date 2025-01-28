@@ -10,15 +10,15 @@ I'm a marine biologist with a passion for data analysis and visualization.
 - **Interests:** Data science, ecological modeling, and marine conservation.
 - **Tools:** R, ggplot2, tidyr, dplyr, Shiny
 - **Learning:** Expanding my knowledge in Python, Git, and advanced statistical methods.
-- **Languages:** Spanish (native), English (fluent)
+- **Languages:** Spanish (native), English (advanced)
 
 ## 🌍 Current Projects
 - Analyzing long-term trends in species diversity in the San Matías Gulf.
 - Investigating the effects of survey methods on species detectability.
-- Studying the diet of a three demersal species.
+- Studying the diet of a demersal fish species.
 
 ## 🚀 Goals
-- Improve my data visualization skills using R and other tools.
+- Improve my data visualization skills.
 - Contribute to open-source projects related to marine biology and environmental science.
 - Collaborate with other researchers on data-driven conservation initiatives.
 
