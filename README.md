@@ -8,7 +8,7 @@ I'm a marine biologist with a passion for data analysis and visualization.
 - **Institution:** Working at CIMAS (Río Negro, Argentina)
 - **Specialization:** Biodiversity assessment, fisheries management, and the impact of survey techniques on species detection.
 - **Interests:** Data science, ecological modeling, and marine conservation.
-- **Tools:** R, ggplot2, tidyr, dplyr
+- **Tools:** R, ggplot2, tidyverse
 - **Learning:** Expanding my knowledge in Python, Git, and advanced statistical methods.
 - **Languages:** Spanish (native), English (advanced)
 
