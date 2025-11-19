@@ -1,15 +1,13 @@
 # 👋 Hello, I'm Josefina!
 
-I'm a marine biologist with a passion for data analysis and visualization. 
+Marine Data Scientist focused on Ecological Modeling and Reproducible Workflows.
 
 ## 🌊 About Me
 - **Profession:** Marine Biologist, Doctoral Fellow at CONICET
 - **Current Research:** Comprehensive study of spatiotemporal indicators of the structure and functioning of the demersal-pelagic community of the San Matías Gulf.
 - **Institution:** Working at CIMAS (Río Negro, Argentina)
-- **Specialization:** Biodiversity assessment, fisheries management, and the impact of survey techniques on species detection.
-- **Interests:** Data science, ecological modeling, and marine conservation.
-- **Tools:** R, tidyverse
-- **Learning:** Expanding my knowledge in Python, Git, and advanced statistical methods.
+- **Specialization:** Advanced Statistical Modeling, Time-Series Analysis, and Ecological Data Wrangling using R
+- **Interests:** Data science, ecological modeling, applied ecology.
 - **Languages:** Spanish (native), English (advanced)
 
 ## 🌍 Current Projects
