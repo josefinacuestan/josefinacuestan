@@ -1,25 +1,33 @@
-# 👋 Hello, I'm Josefina!
+# Josefina Cuesta Núñez 
 
-Marine Data Scientist focused on Ecological Modeling and Reproducible Workflows.
+<img width="300" alt="Institutional affiliation logos: CIMAS, CONICET and FCEN-UBA" src="https://github.com/user-attachments/assets/bf4ff548-a6ba-49e7-b094-ff78a3f7fb99" />
 
-## 🌊 About Me
-- **Profession:** Marine Biologist, Doctoral Fellow at CONICET
-- **Current Research:** Comprehensive study of spatiotemporal indicators of the structure and functioning of the demersal-pelagic community of the San Matías Gulf.
-- **Institution:** Working at CIMAS (Río Negro, Argentina)
-- **Specialization:** Advanced Statistical Modeling, Time-Series Analysis, and Ecological Data Wrangling using R
-- **Interests:** Data science, ecological modeling, applied ecology.
-- **Languages:** Spanish (native), English (advanced)
+* **Doctoral Fellow** at CIMAS-CONICET (San Antonio Oeste, Argentina). 
 
-## 🌍 Current Projects
-- Analyzing long-term trends in species diversity in the San Matías Gulf.
-- Investigating the effects of survey methods on species detectability.
-- Studying the diet of a demersal fish species.
+* **Teaching Assistant** at the Faculty of Marine Sciences, National University of Comahue
 
-## 🚀 Goals
-- Improve my data visualization skills.
-- Contribute to open-source projects related to marine biology and environmental science.
-- Collaborate with other researchers on data-driven conservation initiatives.
 
+
+### Ongoing Projects
+* **PhD Thesis:** Comprehensive study of spatiotemporal biodiversity indicators in the San Matías Gulf.
+* **Trawl Survey Optimization:** Investigating the effects of changing sampling effort on diversity estimates.
+
+### Past Projects
+* **PhD Challenges in Argentina:** We investigated the socio-economic and institutional challenges of conducting doctoral research in Argentina. [Read it here](https://ojs.ecologiaaustral.com.ar/index.php/Ecologia_Austral/article/view/2588)
+
+* **Mollusk Diversity in Patagonia:** Contributed to the analysis of alpha and beta diversity patterns of mollusk assemblages in the tidal flats of northern Patagonia. [Read it here](https://doi.org/10.1007/s10531-025-03082-1?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle)
+
+* **Marine Fish Range Shifts:** Contributed to a literature review on traits related to distributional range shifts of marine fishes in response to environmental changes. [Read it here](https://doi.org/10.1111/jfb.15970?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle)
+
+* **Functional Turnover in Demersal Assemblages:** Led an investigation on how species turnover drives functional diversity and nestedness in Patagonian demersal fish communities. [Read it here](https://doi.org/10.1016/j.seares.2023.102452)
+
+### Connect with me
+[LinkedIn](https://www.linkedin.com/in/josefinacuestan/) | [Email](mailto:josefinacuestan@gmail.com)
+
+---
+
+> [!NOTE]
+> Many of my repositories and codebases are in **Spanglish**.
 
 <!---
 josefinacuestan/josefinacuestan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
