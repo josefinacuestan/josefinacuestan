@@ -19,13 +19,7 @@ Doctoral Fellow at CIMAS-CONICET (San Antonio Oeste, Argentina). <br> Teaching A
 
 * **Functional Turnover in Demersal Assemblages:** Led an investigation on how species turnover drives functional diversity and nestedness in Patagonian demersal fish communities. <br> [Read it here](https://doi.org/10.1016/j.seares.2023.102452)
 
-### Connect with me
-[LinkedIn](https://www.linkedin.com/in/josefinacuestan/) | [Email](mailto:josefinacuestan@gmail.com)
 
----
-
-> [!NOTE]
-> Many of my repositories and codebases are in **Spanglish**.
 
 <!---
 josefinacuestan/josefinacuestan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
