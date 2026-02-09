@@ -2,7 +2,7 @@
 
 <img width="300" alt="Institutional affiliation logos: CIMAS, CONICET and FCEN-UBA" src="https://github.com/user-attachments/assets/bf4ff548-a6ba-49e7-b094-ff78a3f7fb99" />
 
-Doctoral Fellow at CIMAS-CONICET (San Antonio Oeste, Argentina). <br> Teaching Assistant at the Faculty of Marine Sciences, National University of Comahue
+Doctoral Fellow at CIMAS-CONICET (San Antonio Oeste, Argentina). <br> PhD Student at the Faculty of Exact and Natural Sciences, University of Buenos Aires. <br> Teaching Assistant at the Faculty of Marine Sciences, National University of Comahue
 
 
 
