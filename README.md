@@ -11,8 +11,7 @@ Doctoral Fellow at CIMAS-CONICET (San Antonio Oeste, Argentina). <br> PhD Studen
 * **Trawl Survey Optimization:** Investigating the effects of changing sampling effort on diversity estimates.
 
 ### Past Projects
-* **PhD Challenges in Argentina:** We investigated the socio-economic and institutional challenges of conducting doctoral research in Argentina. <br> [Read it here](https://ojs.ecologiaaustral.com.ar/index.php/Ecologia_Austral/article/view/2588)
-
+* [**PhD Challenges in Argentina:**]((https://ojs.ecologiaaustral.com.ar/index.php/Ecologia_Austral/article/view/2588) We investigated the socio-economic and institutional challenges of conducting doctoral research in Argentina.
 * [**Mollusk Diversity in Patagonia:**](https://doi.org/10.1007/s10531-025-03082-1?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle) Contributed to the analysis of alpha and beta diversity patterns of mollusk assemblages in the tidal flats of northern Patagonia.
 
 * [**Marine Fish Range Shifts:**](https://doi.org/10.1111/jfb.15970?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle)Contributed to a literature review on traits related to distributional range shifts of marine fishes in response to environmental changes.
